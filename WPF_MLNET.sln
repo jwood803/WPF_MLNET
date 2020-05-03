@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29924.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_MLNET", "WPF_MLNET\WPF_MLNET.csproj", "{6F7A1445-026B-4FFA-92FE-F7D42C164D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F7A1445-026B-4FFA-92FE-F7D42C164D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7A1445-026B-4FFA-92FE-F7D42C164D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7A1445-026B-4FFA-92FE-F7D42C164D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7A1445-026B-4FFA-92FE-F7D42C164D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1B0E6D7-16F9-4F32-8D2A-DCAB39E01FF6}
+	EndGlobalSection
+EndGlobal
